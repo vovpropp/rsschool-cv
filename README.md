@@ -1,2 +1,2 @@
 # rsschool-cv
-My CV
+https://vovpropp.github.io/rsschool-cv/
